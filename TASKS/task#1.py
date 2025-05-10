@@ -4,7 +4,7 @@ print(x[2])
 
 #Q2
 X='The quick brown fox jumps over the lazy dog'
-print(X[10:20])
+print(X[10:19])
 
 #Q3
 '''
